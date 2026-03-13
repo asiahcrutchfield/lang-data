@@ -7,7 +7,7 @@
             {"filename": "zh_00-0001_001.jpg", "type": "variant"}
         ],
         "audio": [
-            {"filename": "zh.u00-0001.mp3", "gender": "male"}
+            {"filename": "zh_u00-0001.mp3", "gender": "male"}
         ]
     }
 }
