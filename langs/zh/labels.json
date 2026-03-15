@@ -43,7 +43,7 @@
     {
         "vocab": "朋友",
         "image": [
-            {"filename": "u00-0005.jpg", "type": "default"}
+            {"filename": "u00-0005.png", "type": "default"}
         ],
         "audio": [
             {"filename": "zh_u00-0005.mp3", "gender": "male"}
